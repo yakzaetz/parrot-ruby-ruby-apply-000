@@ -1,3 +1,9 @@
+def Parrot(Squawk)
+  puts "Squawk"
+  return Squawk
+end 
+
+puts Parrot
 # Parrot
 
 ## Objectives
